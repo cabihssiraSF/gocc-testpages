@@ -4,8 +4,9 @@
 LA MONTAGNE
 
 CE NSDK
+<a href="
+https://htmlpreview.github.io/?https://github.com/cabihssiraSF/gocc-testpages/blob/main/test_iframe_IE11_Test_LAMONTAGNE_CE_NSDK.html">lien vers la page CE NSDK</a>
 
-https://htmlpreview.github.io/?https://github.com/cabihssiraSF/gocc-testpages/blob/main/test_iframe_IE11_Test_LAMONTAGNE_CE_NSDK.html
 
 CE MyWay
 
