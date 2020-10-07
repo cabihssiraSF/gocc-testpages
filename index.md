@@ -1,7 +1,7 @@
 ## GOCC test Pages
 
 
-LA MONTAGNE
+<b>LA MONTAGNE</b>
 
 CE NSDK:     
 <a href="https://htmlpreview.github.io/?https://github.com/cabihssiraSF/gocc-testpages/blob/main/test_iframe_IE11_Test_LAMONTAGNE_CE_NSDK.html">Lien vers LA MONTAGNE CE NSDK</a>
@@ -20,7 +20,7 @@ BP:
 https://htmlpreview.github.io/?https://github.com/cabihssiraSF/gocc-testpages/blob/main/test_iframe_IE11_Test_LAMONTAGNE_BP.html
 
 
-LA RIVIERE
+<b>LA RIVIERE</b>
 
 CE NSDK:     
 <a href="https://htmlpreview.github.io/?https://github.com/cabihssiraSF/gocc-testpages/blob/main/test_iframeIE11_Demo_LARIVIERE_CE_NSDK.html">Lien vers LA RIVIERE CE NSDK</a>
