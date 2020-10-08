@@ -33,6 +33,6 @@ CE MY WAY:
 https://htmlpreview.github.io/?https://github.com/cabihssiraSF/gocc-testpages/blob/main/test_iframeIE11_Demo_LARIVIERE_CE_MyWay_V2.html
 
 BP:     
-<a href="ttps://htmlpreview.github.io/?https://github.com/cabihssiraSF/gocc-testpages/blob/main/test_iframeIE11_Demo_LARIVIERE_BP.html">Lien vers LA RIVIERE BP</a>
+<a href="https://htmlpreview.github.io/?https://github.com/cabihssiraSF/gocc-testpages/blob/main/test_iframeIE11_Demo_LARIVIERE_BP.html">Lien vers LA RIVIERE BP</a>
 
 https://htmlpreview.github.io/?https://github.com/cabihssiraSF/gocc-testpages/blob/main/test_iframeIE11_Demo_LARIVIERE_BP.html
