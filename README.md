@@ -30,5 +30,8 @@ BP
 https://htmlpreview.github.io/?https://github.com/cabihssiraSF/gocc-testpages/blob/main/test_iframeIE11_Demo_LARIVIERE_BP.html
 
 
+
+
 TEST Deeplink
-https://htmlpreview.github.io/?https://github.com/cabihssiraSF/gocc-testpages/blob/main/test_page_deeplink_MOB_20200915_SAV2
+
+https://htmlpreview.github.io/?https://github.com/cabihssiraSF/gocc-testpages/blob/main/test_page_deeplink_MOB_20200915_SAV2.html
