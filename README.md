@@ -34,4 +34,4 @@ https://htmlpreview.github.io/?https://github.com/cabihssiraSF/gocc-testpages/bl
 
 TEST Deeplink
 
-https://htmlpreview.github.io/?https://github.com/cabihssiraSF/gocc-testpages/blob/main/test_page_deeplink_MOB_20200915_SAV2.html
+https://htmlpreview.github.io/?https://github.com/cabihssiraSF/gocc-testpages/blob/main/test_deeplink_MOB-000000141_S.html
